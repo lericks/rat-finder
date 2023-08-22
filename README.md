@@ -18,4 +18,4 @@ Modern UI
 
 [Implemented with icons and background images]
 
-To run the application simply open the .jar file
+To run the application simply open the .jar file inside of the dist folder
